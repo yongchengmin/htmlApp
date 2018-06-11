@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE beans PUBLIC
+        "-//SPRING//DTD BEAN//EN"
+        "http://www.springframework.org/dtd/spring-beans.dtd">
+<!-- $Id: serviceContext.xml,v 1.12 2017/05/12 10:08:48 yongcheng.min Exp $ -->
+
+<beans>
+	<import resource="ediServiceContext.xml" />
+</beans>
