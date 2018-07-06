@@ -4,7 +4,14 @@
 <title>GPS Mail</title>
 <meta charset="utf-8">
 <link href="css/style.css" rel='stylesheet' type='text/css' />
+<!-- 
 <meta name="viewport" content="width=device-width, initial-scale=1">
+ -->
+
+<!--  -->
+<meta http-equiv="Cache-Control" content="no-cache"/>  
+<meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=2.0"/> 
+
 <script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
 <link type="text/css" rel="stylesheet" href="css/buttons/JFButtonStyle-1.css" />
 

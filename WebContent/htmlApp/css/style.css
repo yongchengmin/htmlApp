@@ -33,6 +33,16 @@ body{
  	font-family: 'Arimo', sans-serif;
 
 }
+.commit-form{
+	background-size: 100% 100%;
+	margin: 10em auto 0;
+	width: 645px;
+	height: 447px;
+	border-radius: 0.6em;
+	-webkit-border-radius: 0.6em;
+	-moz-border-radius: 0.6em;
+	-o-border-radius: 0.6em;
+}
 .login-form{
 	background: url(../images/bg-2.png) no-repeat;
 	background-size: 100% 100%;

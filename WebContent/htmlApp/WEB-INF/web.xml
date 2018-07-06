@@ -54,9 +54,17 @@
 	  <servlet-name>messageServlet</servlet-name>
 	  <servlet-class>com.yc.servlet.MessageServlet</servlet-class>
   </servlet>
+   <servlet>
+	  <servlet-name>qiYeWeiXinServlet</servlet-name>
+	  <servlet-class>com.yc.servlet.QiYeWeiXinServlet</servlet-class>
+  </servlet>
   
   <servlet-mapping>
 	  <servlet-name>messageServlet</servlet-name>
 	  <url-pattern>/message.do</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+	  <servlet-name>qiYeWeiXinServlet</servlet-name>
+	  <url-pattern>/qiyemessage.do</url-pattern>
   </servlet-mapping>
 </web-app>
